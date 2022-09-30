@@ -38,3 +38,15 @@ Aqui vamos criar três colunas onde teremos à lateral, primário e secundario
 <h1 align="center">
 <img src="img/colunas-layout.png"
 </h1>
+
+<h2 align="center">
+Coluna esquerda formatada
+</h2>
+
+<p>
+Foi separado div's, caixa, conteúdo e caixa de conteúdo, onde vai receber a nossa lista, de links entrevistas, abaixo caixa, caixa de conteudo para futuro cadastros.
+</p>
+
+<h1 align="center">
+<img src="img/formatar-coluna-lateral.png"
+</h1>
