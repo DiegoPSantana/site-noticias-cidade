@@ -44,9 +44,34 @@ Coluna esquerda formatada
 </h2>
 
 <p>
-Foi separado div's, caixa, conteúdo e caixa de conteúdo, onde vai receber a nossa lista, de links entrevistas, abaixo caixa, caixa de conteudo para futuro cadastros.
+Foi separado div's, caixa, conteúdo e caixa de conteúdo, onde vai receber a nossa lista, de links 
+entrevistas, abaixo caixa, caixa de conteudo para futuro cadastros.
 </p>
 
 <h1 align="center">
 <img src="img/formatar-coluna-lateral.png"
+</h1>
+
+<h2 align="center">
+Formatando colunas primario, secundario e imagem
+</h2>
+
+<p>
+Formatando as colunas de cima, onde imagens e links adicionados
+</p>
+
+<h1 align="center">
+<img src="img/primario-secundario.png"
+</h1>
+
+<h2 align="center">
+Formatando colunas de baixo
+</h2>
+
+<p>
+Formatando as colunas de baixo, tanto da parte primária e secundária
+</p>
+
+<h1 align="center">
+<img src="img/colunas-baixo.png"
 </h1>
