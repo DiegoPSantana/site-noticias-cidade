@@ -75,3 +75,19 @@ Formatando as colunas de baixo, tanto da parte primária e secundária
 <h1 align="center">
 <img src="img/colunas-baixo.png"
 </h1>
+
+<!-- -->
+
+<h2 align="center">
+Página com duas colunas
+</h2>
+
+<p>
+Página Brasil aonde o layout das colunas em duas caixas, barra lateral e informação principal.
+</p>
+
+<h1 align="center">
+<img src="img/duas-colunas.png"
+</h1>
+
+<!-- -->

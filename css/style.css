@@ -29,6 +29,16 @@ body {
 
 /*Barra de Navegação*/
 
+a:link,
+a:visited {
+  color: #b10333;
+  padding: 2px;
+}
+
+a:hover {
+  color: #e50040;
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -121,7 +131,7 @@ h2 {
 .caixa {
   margin: 10px 0;
   padding: 5px;
-  background: #f3f3f3 url(../img/fundo-caixa.png);
+  background: #f3f3f3 url(../img/fundo-ciaixa.png);
 }
 
 .caixa-conteudo {
@@ -217,6 +227,7 @@ img.imagem-principal {
 
 #lista-noticias li a p {
   font-size: 0.7em;
+  color: #000;
 }
 
 #lista-noticias li:hover {
